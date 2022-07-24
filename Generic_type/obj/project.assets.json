@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\generic\\generic.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\Generic_type\\generic.csproj",
       "projectName": "generic",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\generic\\generic.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\Generic_type\\generic.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\generic\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\CsharpTaghviati\\Generic_type\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
