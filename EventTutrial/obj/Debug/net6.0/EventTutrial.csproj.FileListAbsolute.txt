@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\bin\Debug\net6.0\EventTutrial.exe
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\bin\Debug\net6.0\EventTutrial.deps.json
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\bin\Debug\net6.0\EventTutrial.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\bin\Debug\net6.0\EventTutrial.dll
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\bin\Debug\net6.0\EventTutrial.pdb
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.dll
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\refint\EventTutrial.dll
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.pdb
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\EventTutrial.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CsharpTaghviati\EventTutrial\obj\Debug\net6.0\ref\EventTutrial.dll
